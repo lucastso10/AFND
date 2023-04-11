@@ -3,8 +3,6 @@
 #include <stdbool.h>
 
 /*
-Lucas Teixeira Soares - 32124831
-
 Nessa implementação decidimos fazer uma
 implementação recursiva de um AFND, que utiliza
 backtracking.
